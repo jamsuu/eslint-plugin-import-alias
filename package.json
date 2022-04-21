@@ -56,8 +56,8 @@
         "url": "https://github.com/Limegrass/eslint-plugin-import-alias",
         "type": "git"
     },
-    "name": "@limegrass/eslint-plugin-import-alias",
-    "version": "1.0.3",
+    "name": "@bitassembly/eslint-plugin-import-alias",
+    "version": "1.0.0",
     "description": "Rewrite imports to TSConfig aliases",
     "author": "Limegrass",
     "license": "MIT"

@@ -60,7 +60,7 @@
         "access": "public"
     },
     "name": "@bitassembly/eslint-plugin-import-alias",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Rewrite imports to TSConfig aliases",
     "author": "Limegrass",
     "license": "MIT"

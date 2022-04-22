@@ -12,8 +12,8 @@ function getAliasSuggestion(
 ) {
     const currentAliasConfig: AliasConfig | undefined = aliasConfigs.find(
         ({ alias }) => {
-            const [basePart] = alias.split('/');
-            return importModuleName.includes(basePart);
+            const [baseModulePath] = importModuleName.split("/");
+            return baseModulePath === alias;
         }
     );
 

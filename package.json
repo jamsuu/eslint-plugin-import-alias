@@ -56,6 +56,9 @@
         "url": "https://github.com/jamsuu/eslint-plugin-import-alias",
         "type": "git"
     },
+    "publishConfig": {
+        "access": "public"
+    },
     "name": "@bitassembly/eslint-plugin-import-alias",
     "version": "1.0.0",
     "description": "Rewrite imports to TSConfig aliases",
